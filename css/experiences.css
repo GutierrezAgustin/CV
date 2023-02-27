@@ -10,6 +10,7 @@
   
   .wave {
     width: 100%;
+    /* sacar el pixel con la imagen */
     position: relative;
     top: 2px;
   }
@@ -30,7 +31,7 @@
   .experience-date {
     font-size: 25px;
     font-weight: bold;
-    color: var(--secundary-color);
+    color: var(----secondary-color-color);
   }
   
   .experience-company {
